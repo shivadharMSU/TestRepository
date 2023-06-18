@@ -11,7 +11,7 @@
 		<div class="carousel-item active">
 			<img src="images/courasal1.jpg" alt="Los Angeles" style="width:100%; height:450px;" />
 			<div class="carousel-caption">
-				<h3>Los Angeles</h3>
+				<h3>Hotel shiva</h3>
 				<p>We had such a great time in LA!</p>
 			</div>
 		</div>
